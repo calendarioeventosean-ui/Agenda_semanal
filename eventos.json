@@ -1,19 +1,5 @@
 [
   {
-    "id": 1785855124810.034,
-    "nombre": "COLOMBIA EXCELENTE",
-    "tipo": "Externo",
-    "fecha": "2026-07-14",
-    "horaInicio": "17:00",
-    "horaFin": "22:30",
-    "espacio": "Auditorio Fundadores",
-    "responsable": "",
-    "caso": "",
-    "objetivo": "",
-    "aforo": "",
-    "link": ""
-  },
-  {
     "id": 1785855124810.0496,
     "nombre": "COLOMBIA EXCELENTE",
     "tipo": "Externo",
@@ -93,7 +79,7 @@
     "espacio": "Aula Múltiple",
     "responsable": "",
     "caso": "",
-    "objetivo": "",
+    "objetivo": "Alianza con la universidad",
     "aforo": "",
     "link": ""
   },
@@ -280,20 +266,6 @@
     "link": ""
   },
   {
-    "id": 1785855124810.508,
-    "nombre": "PRUEBAS PRESENTACION GRUPO VOCAL IUVENTUS",
-    "tipo": "Externo",
-    "fecha": "2026-08-27",
-    "horaInicio": "16:00",
-    "horaFin": "19:00",
-    "espacio": "Auditorio Orígenes",
-    "responsable": "",
-    "caso": "",
-    "objetivo": "",
-    "aforo": "",
-    "link": ""
-  },
-  {
     "id": 1785855124810.6257,
     "nombre": "REUNIÓN PROFESORES FHCS",
     "tipo": "Interno",
@@ -406,20 +378,6 @@
     "link": ""
   },
   {
-    "id": 1785855124810.537,
-    "nombre": "Feria de Cacaoteros e Indígenas: Feria de Conocimientos y Saberes: Cacao más allá del chocolate.",
-    "tipo": "Externo",
-    "fecha": "2026-07-08",
-    "horaInicio": "15:00",
-    "horaFin": "18:00",
-    "espacio": "Auditorio Nativos",
-    "responsable": "",
-    "caso": "",
-    "objetivo": "Externo",
-    "aforo": "",
-    "link": ""
-  },
-  {
     "id": 1785855124810.1182,
     "nombre": "Feria de Cacaoteros e Indígenas: Feria de Conocimientos y Saberes: Cacao más allá del chocolate.",
     "tipo": "Externo",
@@ -430,7 +388,7 @@
     "responsable": "",
     "caso": "",
     "objetivo": "Externo",
-    "aforo": "",
+    "aforo": "50",
     "link": ""
   },
   {
@@ -1316,20 +1274,6 @@
     "link": ""
   },
   {
-    "id": 1785855124810.86,
-    "nombre": "LEADERCHIP FORUM VALORA ANALITIK",
-    "tipo": "Externo",
-    "fecha": "2026-07-29",
-    "horaInicio": "18:00",
-    "horaFin": "21:00",
-    "espacio": "Auditorio Fundadores",
-    "responsable": "",
-    "caso": "",
-    "objetivo": "Externo",
-    "aforo": "",
-    "link": ""
-  },
-  {
     "id": 1785855124810.2302,
     "nombre": "LEADERCHIP FORUM VALORA ANALITIK",
     "tipo": "Externo",
@@ -1694,34 +1638,6 @@
     "link": ""
   },
   {
-    "id": 1785855124810.62,
-    "nombre": "Colombia Excelente",
-    "tipo": "Externo",
-    "fecha": "2026-07-14",
-    "horaInicio": "18:00",
-    "horaFin": "20:00",
-    "espacio": "Auditorio Fundadores",
-    "responsable": "",
-    "caso": "",
-    "objetivo": "Externo",
-    "aforo": "",
-    "link": ""
-  },
-  {
-    "id": 1785855124810.2854,
-    "nombre": "Colombia Excelente",
-    "tipo": "Externo",
-    "fecha": "2026-07-15",
-    "horaInicio": "07:00",
-    "horaFin": "18:00",
-    "espacio": "Auditorio Fundadores",
-    "responsable": "",
-    "caso": "",
-    "objetivo": "Externo",
-    "aforo": "",
-    "link": ""
-  },
-  {
     "id": 1785855124810.3296,
     "nombre": "LA VIDA ES HOY",
     "tipo": "Externo",
@@ -1736,20 +1652,6 @@
     "link": ""
   },
   {
-    "id": 1785855124810.4844,
-    "nombre": "Premio al Periodismo 6.ª edición - Constructora Capital",
-    "tipo": "Externo",
-    "fecha": "2026-07-27",
-    "horaInicio": "14:00",
-    "horaFin": "18:00",
-    "espacio": "Auditorio Nativos",
-    "responsable": "",
-    "caso": "",
-    "objetivo": "Externo",
-    "aforo": "",
-    "link": ""
-  },
-  {
     "id": 1785855124810.915,
     "nombre": "Premio al Periodismo 6.ª edición - Constructora Capital",
     "tipo": "Externo",
@@ -1760,21 +1662,21 @@
     "responsable": "",
     "caso": "",
     "objetivo": "Externo",
-    "aforo": "",
+    "aforo": "40",
     "link": ""
   },
   {
     "id": 1785855124810.0698,
     "nombre": "OBRA DE TEATRO WOMEN LINK WORLD",
     "tipo": "Externo",
-    "fecha": "2026-07-23",
+    "fecha": "2026-07-29",
     "horaInicio": "17:00",
     "horaFin": "21:00",
     "espacio": "Auditorio Fundadores",
     "responsable": "",
     "caso": "",
     "objetivo": "Externo",
-    "aforo": "",
+    "aforo": "60",
     "link": ""
   },
   {
