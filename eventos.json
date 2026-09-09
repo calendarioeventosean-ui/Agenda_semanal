@@ -108,7 +108,7 @@
     "responsable": "",
     "caso": "",
     "objetivo": "",
-    "aforo": "",
+    "aforo": "400",
     "link": ""
   },
   {
@@ -416,20 +416,6 @@
     "responsable": "",
     "caso": "",
     "objetivo": "Interno",
-    "aforo": "",
-    "link": ""
-  },
-  {
-    "id": 1785855124810.3296,
-    "nombre": "LA VIDA ES HOY",
-    "tipo": "Externo",
-    "fecha": "2026-08-27",
-    "horaInicio": "14:00",
-    "horaFin": "22:00",
-    "espacio": "Auditorio Orígenes",
-    "responsable": "",
-    "caso": "",
-    "objetivo": "Mixto",
     "aforo": "",
     "link": ""
   },
